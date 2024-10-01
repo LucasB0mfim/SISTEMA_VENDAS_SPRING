@@ -10,9 +10,6 @@ Este programa é um sistema simples de controle de vendas, desenvolvido para ate
 - **Registro de Vendas**: Possibilita a criação de vendas que podem incluir múltiplos produtos, com a respectiva quantidade e cálculo automático do total.
 
 
-- **Listagem de Vendas**: Exibe todas as vendas registradas, com detalhes sobre cada produto vendido, quantidade e subtotal.
-
-
 - **Cálculo Automático de Totais**: O sistema calcula automaticamente o total da venda com base nos produtos e suas quantidades.
 
 ## Ferramentas Utilizadas
@@ -25,7 +22,7 @@ Este programa é um sistema simples de controle de vendas, desenvolvido para ate
 - **Spring Data JPA**: Facilita a interação com o banco de dados utilizando JPA (Java Persistence API).
 
 
-- **Banco de Dados H2**: Banco de dados em memória utilizado para armazenamento das informações de produtos e vendas durante o desenvolvimento e testes.
+- **Banco de Dados PostgreSQL**: Banco de dados utilizado para armazenamento das informações de produtos e vendas durante o desenvolvimento e testes.
 
 ## Resultado no SGBD
 
